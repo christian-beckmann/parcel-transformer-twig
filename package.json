@@ -1,0 +1,22 @@
+{
+  "name": "parcel-transformer-twig",
+  "version": "0.0.1",
+  "description": "Parcel v2 transformer plugin for twigjs",
+  "engines": {
+    "node": ">= 16.0.0",
+    "parcel": "^2.0.0-beta.1"
+  },
+  "main": "lib/index.js",
+  "keywords": [
+    "parcel",
+    "parcel-transformer",
+    "parcel-plugin",
+    "twig"
+  ],
+  "author": "christian-beckmann",
+  "license": "MIT",
+  "dependencies": {
+    "@parcel/plugin": "^2.0.0-alpha.3",
+    "twig": "^1.15.4"
+  }
+}
