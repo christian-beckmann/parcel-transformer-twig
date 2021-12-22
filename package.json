@@ -14,7 +14,6 @@
     "twig"
   ],
   "author": "christian-beckmann",
-  "license": "MIT",
   "dependencies": {
     "@parcel/plugin": "^2.0.0-alpha.3",
     "twig": "^1.15.4"
