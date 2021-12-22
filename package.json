@@ -13,6 +13,10 @@
     "parcel-plugin",
     "twig"
   ],
+  "repository": "git://github.com/christian-beckmann/parcel-transformer-twig.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "christian-beckmann",
   "dependencies": {
     "@parcel/plugin": "^2.0.0-alpha.3",
