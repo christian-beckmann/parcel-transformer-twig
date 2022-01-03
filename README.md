@@ -30,3 +30,15 @@ Reference [Parcel plugin configuration](https://v2.parceljs.org/configuration/pl
 You can add custom options for ejs templating engine using a `.twigrc`, `.twigrc.js` file.
 
 For more information on customization options, see [twig.js](https://github.com/twigjs/twig.js)
+
+### Watching subfolder *.twig files
+
+To watch included/embedded files, parcel needs to know the folder (because twig.js doesn't inform parcel about the included files).
+
+.twigrc
+
+```json
+{
+  "watchFolder": "./src"
+}
+```
