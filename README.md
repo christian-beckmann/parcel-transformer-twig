@@ -7,7 +7,7 @@ Inspired of Parcel v1 plugin [parcel-plugin-twig](https://github.com/arnorhs/par
 ## Installation
 
 ```sh
-npm i -D parcel-transformer-twig
+npm i -D git+ssh://github.com/christian-beckmann/parcel-transformer-twig
 ```
 
 ## Configuration
@@ -18,7 +18,7 @@ npm i -D parcel-transformer-twig
 {
   "extends": ["@parcel/config-default"],
   "transformers": {
-    "*.twig": ["parcel-transformer-twig"]
+    "*.twig": ["@christian-beckmann/parcel-transformer-twig"]
   }
 }
 ```
