@@ -12,7 +12,7 @@ npm i -D git+ssh://github.com/christian-beckmann/parcel-transformer-twig
 
 ## Configuration
 
-.parcelrc
+.parcelrc [Parcel Configuration](https://parceljs.org/features/plugins/#.parcelrc)
 
 ```json
 {
