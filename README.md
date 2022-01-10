@@ -23,7 +23,7 @@ npm i -D christian-beckmann/parcel-transformer-twig
 }
 ```
 
-Reference [Parcel plugin configuration](https://v2.parceljs.org/configuration/plugin-configuration/)
+Reference [Parcel plugin configuration](https://parceljs.org/features/plugins/)
 
 ## Customization
 
