@@ -42,3 +42,7 @@ To watch included/embedded files, parcel needs to know the folder (because twig.
   "watchFolder": "./src"
 }
 ```
+
+**Cons**
+
+New created files won't be watched. Reload to watch new twig files. 
