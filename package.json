@@ -1,6 +1,6 @@
 {
   "name": "@christian-beckmann/parcel-transformer-twig",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parcel v2 transformer plugin for twigjs",
   "engines": {
     "node": ">= 12.0.0",
